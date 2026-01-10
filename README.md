@@ -1,70 +1,102 @@
-# SKIN ALGNOSIS
+<div align="center">
+🩺 SKIN ALGNOSIS
+AI-Powered Skin Lesion Detection & Diagnosis Platform
 
-> 🩺 AI-Powered Skin Lesion Detection & Diagnosis Platform
 
-![Logo](https://img.shields.io/badge/SKIN-ALGNOSIS-8B5CF6?style=for-the-badge&logo=medical&logoColor=white)
+🚀 Making dermatological insights accessible through AI
 
-![Python](https://img.shields.io/badge/Python-blueviolet?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-blueviolet?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-blueviolet?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-blueviolet?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-blueviolet?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-blueviolet?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-blueviolet?style=for-the-badge)
+</div>
+🌟 Overview
 
-## 🌟 Overview
-SKIN ALGNOSIS is a cutting-edge AI-powered web platform that democratizes access to preliminary skin condition analysis. Upload images of skin lesions and receive instant, AI-generated insights about potential diseases, making dermatological assessment more accessible worldwide.
+SKIN ALGNOSIS is an AI-powered web platform designed to assist users in the preliminary analysis of skin lesions. By simply uploading an image, users receive instant AI-generated insights about possible skin conditions—bridging the gap between technology and healthcare accessibility.
 
-## ✨ Features
-- AI-Based Skin Diagnosis
-- Instant AI Predictions
-- Detailed Medical Reports
-- Secure Data Storage
-- Multilingual Support
-- Global Accessibility
+⚠️ Disclaimer: This platform is intended for educational and preliminary screening purposes only and does not replace professional medical diagnosis.
 
-## 🛠️ Installation
-```bash
+✨ Key Features
+
+✅ AI-based skin lesion classification
+✅ Instant disease prediction
+✅ Detailed and easy-to-understand reports
+✅ Secure image handling
+✅ Multilingual support
+✅ Accessible anytime, anywhere
+
+🧠 How It Works
+
+📷 Upload an image of the skin lesion
+
+🤖 AI model analyzes the image
+
+📊 Generates prediction & confidence score
+
+🩺 Displays a structured diagnosis report
+
+🛠️ Installation & Setup
+🔧 Prerequisites
+
+Python 3.8+
+
+Node.js & npm
+
+Git
+
+📥 Clone the Repository
 git clone https://github.com/YashGoyal06/SKIN-LESIONS.git
 cd SKIN-LESIONS
+
+⚙️ Backend Setup
 pip install -r requirements.txt
+python app.py
+
+🎨 Frontend Setup
 npm install
 npm run dev
-```
 
-## 📖 Usage
-1. Run backend with `python app.py`
-2. Start frontend with `npm run dev`
-3. Open http://localhost:3000 and upload your skin image
-4. Get instant AI-powered skin diagnosis
 
-## 💻 Tech Stack
-- Python
-- TensorFlow
-- NumPy
-- Pandas
-- Flask
-- HTML5
-- CSS3
-- JavaScript
-- Vercel
+🌐 Open your browser and visit:
+http://localhost:3000
 
-## 📸 Screenshots
-![Screenshot](https://dummyimage.com/600x400/8b5cf6/ffffff&text=Landing+Page)
-![Screenshot](https://dummyimage.com/600x400/ff6b6b/ffffff&text=Diagnosis+Report)
+📖 Usage Guide
 
-## 🔗 Links
-- [Live Demo](https://skinalgnosis.vercel.app)
-- [AI Model](https://drive.google.com/file/d/1vzNYR_Z4WYRKQQYGRvQ6PgTFs2k60k7Z/view)
-- [Backend](https://huggingface.co/spaces/yashgoyal06/backend)
+Start the backend (python app.py)
 
-## 🤝 Contributors
-- [Yash Goyal](https://github.com/YashGoyal06)
-- [Open Source Community](https://github.com)
+Run the frontend (npm run dev)
 
-## 📄 License
-This project is licensed under **MIT**.
+Upload a skin image
 
----
-Made with ❤️ using the Advanced README Generator
+Receive AI-powered diagnosis instantly
+
+💻 Tech Stack
+Category	Technologies
+AI / ML	TensorFlow, NumPy, Pandas
+Backend	Flask, Python
+Frontend	HTML5, CSS3, JavaScript
+Deployment	Hugging Face, Vercel
+📸 Screenshots
+<p align="center"> <img src="https://dummyimage.com/600x400/8b5cf6/ffffff&text=Landing+Page" width="45%" /> <img src="https://dummyimage.com/600x400/ff6b6b/ffffff&text=Diagnosis+Report" width="45%" /> </p>
+🔗 Live Links
+
+🌐 Frontend: skinalgnosis.vercel.app
+
+🧠 AI Model: Download Model
+
+⚙️ Backend API: Hugging Face Space
+
+🤝 Contributors
+
+👤 Yash Goyal – Project Lead & Developer
+🌍 Open Source Community
+
+Contributions are welcome! Feel free to fork, raise issues, or submit pull requests 💡
+
+📄 License
+
+This project is licensed under the MIT License 📜
+You’re free to use, modify, and distribute this software with attribution.
+
+<div align="center">
+
+✨ Built with passion, powered by AI, and driven by impact ✨
+❤️ SKIN ALGNOSIS
+
+</div>
