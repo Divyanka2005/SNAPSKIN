@@ -82,10 +82,7 @@ Deployment	Hugging Face, Vercel
 
 ⚙️ Backend API: Hugging Face Space
 
-🤝 Contributors
 
-👤 Yash Goyal – Project Lead & Developer
-🌍 Open Source Community
 
 Contributions are welcome! Feel free to fork, raise issues, or submit pull requests 💡
 
